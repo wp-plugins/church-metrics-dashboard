@@ -2,7 +2,7 @@
 Contributors: danielmilner,firetree
 Tags: church,metrics,stats,dashboard
 Requires at least: 3.8
-Tested up to: 4.2.3
+Tested up to: 4.3
 Stable tag: 1.0.0
 License: GPLv2 or later
 License URI: http://ww.gnu.org/licenses/gpl-2.0.html
