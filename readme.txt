@@ -7,11 +7,11 @@ Stable tag: 1.1.0
 License: GPLv2 or later
 License URI: http://ww.gnu.org/licenses/gpl-2.0.html
 
-Display Church Metrics Dashboard Widgets on your WordPress Dashboard
+Display Church Metrics data on your WordPress Dashboard or using a shortcode.
 
 == Description ==
 
-Build custom Dashboard Widgets to display data from Church Metrics. Compare numbers from different time periods. Limit Dashboard Widgets to a specific user or display them for everyone.
+Build custom Metrics to display data from Church Metrics. Compare numbers from different time periods. Display on your WordPress Dashboard or with a shortcode. Limit Metrics to a specific user or display them for everyone.
 
 Requires a [Church Metrics](http://churchmetrics.com/) account.
 
