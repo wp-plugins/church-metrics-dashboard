@@ -48,8 +48,8 @@ Here is what the shortcode would look like with all of the parameters:
 * __id__ _(Required)_ the id of the metric to display.
 * __before__ _(Optional)_ has no default value.
 * __after__ _(Optional)_ has no default value.
-* __before_title__ _(Optional)_ default value is "<h2>"
-* __after_title__ _(Optional)_ default value is "</h2>".
+* __before_title__ _(Optional)_ default value is '<h2>'.
+* __after_title__ _(Optional)_ default value is '</h2>'.
 
 
 == Screenshots ==
