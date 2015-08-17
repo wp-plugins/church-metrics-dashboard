@@ -16,6 +16,7 @@ Build custom metrics to display data from Church Metrics. Compare numbers from d
 Requires a [Church Metrics](http://churchmetrics.com/) account.
 
 Available Display Periods:
+
 * This Week
 * This Week Last Year
 * Last Week
